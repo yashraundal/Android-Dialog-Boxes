@@ -23,7 +23,7 @@ This project demonstrates different types of Dialog Boxes in Android using Kotli
 
 ### Dialog Boxes
 
-![Alert Dialog](screenshots/DialogBoxEx.png)
+![examples Dialog](screenshots/DialogBoxEx.png)
 
 ### Alert Dialog
 
@@ -45,6 +45,4 @@ This project demonstrates different types of Dialog Boxes in Android using Kotli
 
 ![Custom Dialog](screenshots/Custom.png)
 
-=======
-# Android-Dialog-Boxes
->>>>>>> 073520606196fc8f96cd5ddda3bbbc9564c6d4df
+
