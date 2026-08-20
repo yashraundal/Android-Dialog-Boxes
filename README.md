@@ -27,7 +27,7 @@ This project demonstrates different types of Dialog Boxes in Android using Kotli
 
 ### Alert Dialog
 
-![Alert Dialog](screenshots/Alert.png)
+![Alert Dialog](screenshots/alert.png)
 
 ### Single Choice Dialog
 
