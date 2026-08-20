@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Android Dialog Boxes
 
 This project demonstrates different types of Dialog Boxes in Android using Kotlin.
