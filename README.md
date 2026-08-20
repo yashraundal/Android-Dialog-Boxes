@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android Dialog Boxes
 
 This project demonstrates different types of Dialog Boxes in Android using Kotlin.
@@ -44,3 +45,6 @@ This project demonstrates different types of Dialog Boxes in Android using Kotli
 
 ![Custom Dialog](screenshots/Custom.png)
 
+=======
+# Android-Dialog-Boxes
+>>>>>>> 073520606196fc8f96cd5ddda3bbbc9564c6d4df
